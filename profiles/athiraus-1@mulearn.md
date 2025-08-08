@@ -5,10 +5,10 @@ I’m a fast learner, always curious, and constantly looking for ways to level u
 ________________________________________
 Achievements:
 Infosys Springboard Certification courses:
-Python Foundation Certification 
-Cyber Security Foundation Certification 
-Artificial Intelligence Foundation Certification 
-Machine Learning Foundation Certification 
+Python Foundation Certification,
+Cyber Security Foundation Certification,
+Artificial Intelligence Foundation Certification,
+Machine Learning Foundation Certification,
 Java Foundation Certification 
 ________________________________________
 🌐 Public Profiles
